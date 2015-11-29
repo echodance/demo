@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+	<stu>
+		<stuId>001</stuId>
+		<stuNum>ad05001</stuNum>
+		<stuName>tom</stuName>
+		<stuSex>男</stuSex>
+		<stuConcat>
+			<stuPhone>1234</stuPhone>
+			<stuQQ>
+				<stuQQ1>1111</stuQQ1>
+				<stuQQ2>2222</stuQQ2>
+			</stuQQ>
+			<stuEmail>333@qq.com</stuEmail>
+		</stuConcat>
+	</stu>
+	<stu>
+		<stuId>002</stuId>
+		<stuNum>ad05002</stuNum>
+		<stuName><![CDATA[ja<c><><><><>k]]></stuName>
+		<stuSex>男</stuSex>
+		<stuConcat>
+			<stuPhone>1234</stuPhone>
+			<stuQQ>
+				<stuQQ1>1111</stuQQ1>
+				<stuQQ2>2222</stuQQ2>
+			</stuQQ>
+			<stuEmail>333@qq.com</stuEmail>
+		</stuConcat>
+	</stu>
+	<stu>
+		<stuId>003</stuId>
+		<stuNum>ad05003</stuNum>
+		<stuName>piter</stuName>
+		<stuSex>男</stuSex>
+		<stuConcat>
+			<stuPhone></stuPhone>
+			<stuQQ>
+				<stuQQ1>1111</stuQQ1>
+				<stuQQ2>2222</stuQQ2>
+			</stuQQ>
+			<stuEmail>333@qq.com</stuEmail>
+		</stuConcat>
+	</stu>
+</students>
